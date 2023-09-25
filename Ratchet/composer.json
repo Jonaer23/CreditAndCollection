@@ -1,0 +1,17 @@
+{
+    "name": "jonaer/ratchet",
+    "description": "Private Centenial Software by Jonaer Casundo as Owner",
+    "autoload": {
+        "psr-4": {
+            "Jonaer\\Ratchet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jcasundo.sedge"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}

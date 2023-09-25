@@ -1,0 +1,548 @@
+[23-Jul-2023 05:26:29 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:26:29 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:26:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:30:00 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:30:00 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:30:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:33:17 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:33:17 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:33:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:34:33 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:34:33 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:34:33 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:47:24 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:47:24 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:47:24 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:06 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:06 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:23 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:23 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:23 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:44 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:44 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:49:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 3
+[23-Jul-2023 05:52:47 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:52:47 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:52:47 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:52:55 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:52:55 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:52:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:55:15 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:55:15 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:55:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:55:15 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:55:15 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:55:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:57:43 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:57:43 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:57:43 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 05:57:43 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:57:43 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 05:57:43 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:00:52 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:00:52 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:00:52 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:00:52 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:00:52 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:00:52 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:02:26 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:02:26 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:02:26 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:02:27 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:02:27 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:02:27 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 3
+[23-Jul-2023 06:06:04 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:06:04 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:06:04 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:06:05 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 6
+[23-Jul-2023 06:06:05 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 6
+[23-Jul-2023 06:06:05 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 6
+[23-Jul-2023 06:10:06 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:10:06 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:10:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:10:08 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 6
+[23-Jul-2023 06:10:08 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 6
+[23-Jul-2023 06:10:08 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 6
+[23-Jul-2023 06:15:10 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:15:10 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:15:10 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:15:10 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:15:10 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:15:10 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:16:09 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:16:09 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:16:09 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:16:09 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:16:09 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:16:09 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:21:13 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:21:13 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:21:13 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:21:13 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:21:13 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:21:13 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:27:34 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:27:34 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:27:34 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:27:34 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:27:34 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:27:34 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:34:41 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:34:41 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:34:41 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:34:42 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:34:42 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:34:42 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:35:38 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:35:38 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:35:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:35:38 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:35:38 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:35:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:35:57 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:35:57 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:35:57 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:35:59 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:35:59 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:35:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:36:06 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:36:06 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:36:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:36:08 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:36:08 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:36:08 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:42:27 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:42:27 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:42:27 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:42:29 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:42:29 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:42:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:42:38 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:42:38 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:42:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:42:40 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:42:40 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:42:40 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:51:10 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:51:10 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:51:10 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:51:12 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:51:12 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:51:12 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:53:25 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:53:25 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:53:25 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:53:26 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:53:26 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:53:26 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:54:18 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:54:18 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:54:18 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_appointment_check_duplicate_ip.php on line 6
+[23-Jul-2023 06:54:20 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:54:20 America/Chicago] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:54:20 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/centenn1/public_html/newFolder/AccountingSoftwareProposal/startbootstrap-sb-admin-2-gh-pages/startbootstrap-sb-admin-2-gh-pages/myPHP/sales_submit_appointment.php on line 7
+[23-Jul-2023 06:59:34 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 06:59:34 America/Chicago] Parameters: Array
+(
+    [0] => krissss
+    [1] => Jonaercasundo23@gmail.com
+    [2] => 2023-07-23
+    [3] => 21:02
+    [4] => krisss
+    [5] => Scheduled
+    [6] => 2023-07-23 06:59:34
+    [7] => 124.106.144.244
+)
+
+[23-Jul-2023 06:59:34 America/Chicago] Appointment submitted successfully.
+[23-Jul-2023 07:04:54 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 07:04:54 America/Chicago] Parameters: Array
+(
+    [0] => kris
+    [1] => marketing.sedge@gmail.com
+    [2] => 2023-07-23
+    [3] => 23:05
+    [4] => krisss mabangis
+    [5] => Scheduled
+    [6] => 2023-07-23 07:04:54
+    [7] => 124.106.144.244
+)
+
+[23-Jul-2023 07:14:06 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 07:14:06 America/Chicago] Parameters: Array
+(
+    [0] => kriss
+    [1] => Jonaercasundo23@gmail.com
+    [2] => 2023-07-24
+    [3] => 22:15
+    [4] => asdfas
+    [5] => Scheduled
+    [6] => 2023-07-23 07:14:06
+    [7] => 124.105.102.174
+)
+
+[23-Jul-2023 07:16:21 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 07:16:21 America/Chicago] Parameters: Array
+(
+    [0] => kriss
+    [1] => Jonaercasundo23@gmail.com
+    [2] => 2023-07-23
+    [3] => 23:16
+    [4] => krisss
+    [5] => Scheduled
+    [6] => 2023-07-23 07:16:21
+    [7] => 115.147.13.245
+)
+
+[23-Jul-2023 07:17:56 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 07:17:56 America/Chicago] Parameters: Array
+(
+    [0] => krisss
+    [1] => Jonaercasundo23@gmail.com
+    [2] => 2023-07-23
+    [3] => 23:17
+    [4] => krissss
+    [5] => Scheduled
+    [6] => 2023-07-23 07:17:56
+    [7] => 124.104.145.187
+)
+
+[23-Jul-2023 07:18:39 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 07:18:39 America/Chicago] Parameters: Array
+(
+    [0] => krisss
+    [1] => ads@gmail.com
+    [2] => 2023-07-25
+    [3] => 23:20
+    [4] => asdf
+    [5] => Scheduled
+    [6] => 2023-07-23 07:18:39
+    [7] => 115.147.13.245
+)
+
+[23-Jul-2023 07:18:55 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 07:18:55 America/Chicago] Parameters: Array
+(
+    [0] => krisss
+    [1] => marketing.sedge@gmail.com
+    [2] => 2023-07-18
+    [3] => 23:18
+    [4] => asdf
+    [5] => Scheduled
+    [6] => 2023-07-23 07:18:55
+    [7] => 124.107.123.252
+)
+
+[23-Jul-2023 10:38:01 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 10:38:01 America/Chicago] Parameters: Array
+(
+    [0] => jonaer CAsundo
+    [1] => Jonaercasundo23@gmail.com
+    [2] => 2023-07-23
+    [3] => 13:37
+    [4] => KirrrrsssJonaer
+    [5] => Scheduled
+    [6] => 2023-07-23 10:38:01
+    [7] => 124.106.144.244
+)
+
+[23-Jul-2023 10:38:14 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 10:38:14 America/Chicago] Parameters: Array
+(
+    [0] => krisss
+    [1] => marketing.sedge@gmail.com
+    [2] => 2023-07-19
+    [3] => 16:38
+    [4] => asdg
+    [5] => Scheduled
+    [6] => 2023-07-23 10:38:14
+    [7] => 124.107.123.252
+)
+
+[23-Jul-2023 13:29:15 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Jul-2023 13:29:15 America/Chicago] Parameters: Array
+(
+    [0] => Jonaer
+    [1] => jcasunod@gmail.com
+    [2] => 2023-07-24
+    [3] => 02:28
+    [4] => Hi papasched sana ako
+    [5] => Scheduled
+    [6] => 2023-07-23 13:29:15
+    [7] => 115.147.55.64
+)
+
+[27-Jul-2023 04:48:04 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[27-Jul-2023 04:48:04 America/Chicago] Parameters: Array
+(
+    [0] => Ricardo Samonte
+    [1] => ricardosamonte023@gmail.com
+    [2] => 2023-07-29
+    [3] => 10:21
+    [4] => For inquiries
+    [5] => Scheduled
+    [6] => 2023-07-27 04:48:04
+    [7] => 119.92.155.232
+)
+
+[27-Jul-2023 04:58:40 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[27-Jul-2023 04:58:40 America/Chicago] Parameters: Array
+(
+    [0] => Jonaer
+    [1] => jcasundo.sedge@gmail.com
+    [2] => 2023-07-27
+    [3] => 20:58
+    [4] => sadf
+    [5] => Scheduled
+    [6] => 2023-07-27 04:58:40
+    [7] => 124.106.144.244
+)
+
+[27-Jul-2023 05:07:40 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[27-Jul-2023 05:07:40 America/Chicago] Parameters: Array
+(
+    [0] => melvin&#039;s Store
+    [1] => marketing01.sedge@gmail.com
+    [2] => 2023-08-05
+    [3] => 20:07
+    [4] => sdf
+    [5] => Scheduled
+    [6] => 2023-07-27 05:07:40
+    [7] => 115.147.13.245
+)
+
+[27-Jul-2023 05:08:54 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[27-Jul-2023 05:08:54 America/Chicago] Parameters: Array
+(
+    [0] => Jonaer
+    [1] => tinaybabe002@gmail.com
+    [2] => 2023-08-05
+    [3] => 21:08
+    [4] => sfsfsd
+    [5] => Scheduled
+    [6] => 2023-07-27 05:08:54
+    [7] => 115.147.55.64
+)
+
+[03-Aug-2023 03:23:28 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[03-Aug-2023 03:23:28 America/Chicago] Parameters: Array
+(
+    [0] => Rodel Pasion
+    [1] => rodel@gmail.com
+    [2] => 2023-08-03
+    [3] => 05:24
+    [4] => Hi
+    [5] => Scheduled
+    [6] => 2023-08-03 03:23:28
+    [7] => 119.92.155.232
+)
+
+[09-Aug-2023 03:54:35 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[09-Aug-2023 03:54:35 America/Chicago] Parameters: Array
+(
+    [0] => Jonaer
+    [1] => jcasundo.sedge@gmail.com
+    [2] => 2023-08-12
+    [3] => 16:55
+    [4] => Hi Please I want to sched for inquiry
+    [5] => Scheduled
+    [6] => 2023-08-09 03:54:35
+    [7] => 124.104.145.187
+)
+
+[09-Aug-2023 04:28:16 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[09-Aug-2023 04:28:16 America/Chicago] Parameters: Array
+(
+    [0] => Jonaer
+    [1] => jcasundo.sedge@gmail.com
+    [2] => 2023-08-11
+    [3] => 08:00
+    [4] => Hiasdf
+    [5] => Scheduled
+    [6] => 2023-08-09 04:28:16
+    [7] => 124.105.102.174
+)
+
+[09-Aug-2023 04:37:49 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[09-Aug-2023 04:37:49 America/Chicago] Parameters: Array
+(
+    [0] => jonaer
+    [1] => jcasundo.sedge@gmail.com
+    [2] => 2023-08-10
+    [3] => 12:00
+    [4] => asdf
+    [5] => Scheduled
+    [6] => 2023-08-09 04:37:49
+    [7] => 115.147.13.245
+)
+
+[23-Aug-2023 14:20:06 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 14:20:06 America/Chicago] Parameters: Array
+(
+    [0] => Jake Casundo
+    [1] => jakecasundo15@gmail.com
+    [2] => 2023-08-24
+    [3] => 15:00
+    [4] => Hi !!
+    [5] => Scheduled
+    [6] => 2023-08-23 14:20:06
+    [7] => 115.147.13.245
+)
+
+[23-Aug-2023 14:21:00 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 14:21:00 America/Chicago] Parameters: Array
+(
+    [0] => Rai Andrai vargas
+    [1] => laerled016@gmail.com
+    [2] => 2023-08-24
+    [3] => 15:00
+    [4] => Hi !!
+    [5] => Scheduled
+    [6] => 2023-08-23 14:21:00
+    [7] => 124.106.144.244
+)
+
+[23-Aug-2023 14:22:13 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 14:22:13 America/Chicago] Parameters: Array
+(
+    [0] => Rodel Pasion
+    [1] => jcasundo.sedge@gmail.com
+    [2] => 2023-08-24
+    [3] => 16:00
+    [4] => Hi !!
+    [5] => Scheduled
+    [6] => 2023-08-23 14:22:13
+    [7] => 124.104.145.187
+)
+
+[23-Aug-2023 14:32:19 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 14:32:19 America/Chicago] Parameters: Array
+(
+    [0] => Boyet Medina
+    [1] => boyetmeds@gmail.om
+    [2] => 2023-08-31
+    [3] => 15:00
+    [4] => Hi !!
+    [5] => Scheduled
+    [6] => 2023-08-23 14:32:19
+    [7] => 115.147.55.64
+)
+
+[23-Aug-2023 14:34:05 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 14:34:05 America/Chicago] Parameters: Array
+(
+    [0] => Boyet Medina
+    [1] => boyetmedina@gmail.com
+    [2] => 2023-08-27
+    [3] => 19:00
+    [4] => Hi!!
+    [5] => Scheduled
+    [6] => 2023-08-23 14:34:05
+    [7] => 124.105.102.174
+)
+
+[23-Aug-2023 15:08:30 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:08:30 America/Chicago] Parameters: Array
+(
+    [0] => Kris Blanco
+    [1] => kris@gmail.com
+    [2] => 2023-08-24
+    [3] => 16:00
+    [4] => sdasdsd
+    [5] => Scheduled
+    [6] => 2023-08-23 15:08:30
+    [7] => 124.107.123.252
+)
+
+[23-Aug-2023 15:17:17 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:17:17 America/Chicago] Parameters: Array
+(
+    [0] => asdasdasd
+    [1] => asdasd@gmail.com
+    [2] => 2023-08-25
+    [3] => 16:00
+    [4] => asdd
+    [5] => Scheduled
+    [6] => 2023-08-23 15:17:17
+    [7] => 180.191.255.9
+)
+
+[23-Aug-2023 15:18:58 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:18:58 America/Chicago] Parameters: Array
+(
+    [0] => Rodel Pasion
+    [1] => rpg_010@yahoo.com
+    [2] => 2023-08-24
+    [3] => 16:00
+    [4] => Hi!!!
+    [5] => Scheduled
+    [6] => 2023-08-23 15:18:58
+    [7] => 115.147.55.64
+)
+
+[23-Aug-2023 15:21:19 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:21:19 America/Chicago] Parameters: Array
+(
+    [0] => Jake Casundo
+    [1] => jcasundo.sedge@gmail.com
+    [2] => 2023-08-24
+    [3] => 16:00
+    [4] => Hi!!
+    [5] => Scheduled
+    [6] => 2023-08-23 15:21:19
+    [7] => 115.147.13.245
+)
+
+[23-Aug-2023 15:21:48 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:21:48 America/Chicago] Parameters: Array
+(
+    [0] => Kris Blanco
+    [1] => Jocelsumagaysay@sedgetechnologies.com
+    [2] => 2023-08-25
+    [3] => 17:00
+    [4] => Hi!!
+    [5] => Scheduled
+    [6] => 2023-08-23 15:21:48
+    [7] => 124.105.102.174
+)
+
+[23-Aug-2023 15:47:54 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:47:54 America/Chicago] Parameters: Array
+(
+    [0] => Rodel Pasion
+    [1] => rpg_010@yahoo.com
+    [2] => 2023-08-24
+    [3] => 17:00
+    [4] => Hello!
+    [5] => Scheduled
+    [6] => 2023-08-23 15:47:54
+    [7] => 124.105.102.174
+)
+
+[23-Aug-2023 15:48:25 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:48:25 America/Chicago] Parameters: Array
+(
+    [0] => Jake Casundo
+    [1] => marketing01.sedge@gmail.com
+    [2] => 2023-08-26
+    [3] => 16:00
+    [4] => Hello!!
+    [5] => Scheduled
+    [6] => 2023-08-23 15:48:25
+    [7] => 180.191.255.9
+)
+
+[23-Aug-2023 15:54:31 America/Chicago] SQL Query: INSERT INTO tbl_salesappointment (fullname, email, AppointmentDate, AppointmenTime, message, status, dateCreated, ipAddress) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[23-Aug-2023 15:54:31 America/Chicago] Parameters: Array
+(
+    [0] => Kris Blanco
+    [1] => marketing01.sedge@gmail.com
+    [2] => 2023-08-26
+    [3] => 16:00
+    [4] => Hi!!
+    [5] => Scheduled
+    [6] => 2023-08-23 15:54:31
+    [7] => 115.147.13.245
+)
+
